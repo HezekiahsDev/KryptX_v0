@@ -14,7 +14,7 @@ export default function RootLayout({
         <title>KryptX Gateway</title>
         <meta
           name="description"
-          content="Secure. Fast. Decentralized, Anytime."
+          content="Easy Secure. Fast. Decentralized, Anytime."
         />
       </head>
       <body className="flex flex-col min-h-screen">
